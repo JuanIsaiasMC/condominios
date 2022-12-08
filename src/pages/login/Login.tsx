@@ -11,7 +11,7 @@ export default function Login() {
             <div className='hidden 1048:block'>
                 <img className='h-full' src={liveto} alt="" />
             </div>
-            <div className='bg-white rounded-r-2xl p-8'>
+            <div className='bg-white rounded-2xl 1048:rounded-r-2xl p-8'>
                 <h2 className="flex justify-center items-center gap-4  uppercase font-bold tracking-[4px]">
                     <RiBuilding4Line className='text-[2.5rem]' />
                     liveto

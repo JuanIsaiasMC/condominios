@@ -94,7 +94,7 @@ export default function Sidebar() {
         </ul>
         <div>
           <Link
-            to="/login"
+            to="/"
             className="flex justify-center items-center gap-4 font-semibold hover:bg-background-blue hover:font-bold rounded-lg transition-colors text-2xl px-4 1048:justify-start" onClick={openMenu}
           >
             <RiLogoutBoxLine className='mx-6 text-[2rem]' />
